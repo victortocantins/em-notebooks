@@ -1,5 +1,4 @@
 # Token
-git remote add origin https://github.com/victortocantins/em-notebooks.git
 
 
 # GeoSci Labs
