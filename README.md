@@ -1,3 +1,7 @@
+# Token
+git remote add origin https://github.com/victortocantins/em-notebooks.git
+
+
 # GeoSci Labs
 
 [![binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/geoscixyz/geosci-labs/master?filepath=notebooks%2Findex.ipynb)
